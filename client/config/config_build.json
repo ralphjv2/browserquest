@@ -1,4 +1,4 @@
 {
-    "host": "localhost",
-    "port": 8000
+    "host": "browserquest-server-fwdi.onrender.com",
+    "port": 443
 }
