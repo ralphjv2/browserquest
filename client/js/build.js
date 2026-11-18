@@ -29,7 +29,7 @@
     ],
     
     pragmas: {
-        devHost: true,
-        prodHost: false
+        devHost: false,
+        prodHost: true
     }
 })

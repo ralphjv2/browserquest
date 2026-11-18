@@ -107,7 +107,6 @@ js/audio.js
 js/updater.js
 js/lib/astar.js
 js/pathfinder.js
-text!../config/config_local.json
 text!../config/config_build.json
 js/config.js
 js/../../shared/js/gametypes.js
